@@ -3,7 +3,6 @@ y=4
 
 z=x+y
 
-
 osszeg :: Num a => a -> a -> a
 osszeg a b = a+ b
 
